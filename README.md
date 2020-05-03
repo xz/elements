@@ -1,8 +1,8 @@
-# All HTML Elements
-
-✨ View in your browser at [https://xz.github.io/html-elements/src/index.html](https://xz.github.io/html-elements/src/index.html).
+# xz/html-elements
 
 A simple list of all visible and style-able HTML elements. The list itself does not style any of these elements, so it's perfect for testing CSS frameworks, browser compatibility, and more.
+
+> View in your browser at [https://xz.github.io/html-elements/src/index.html](https://xz.github.io/html-elements/src/index.html).
 
 ⚠️ Find any issues or need to yell at me? Please use the [Issues](https://github.com/xz/html-elements/issues) section.
 
